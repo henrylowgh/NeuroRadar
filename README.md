@@ -11,7 +11,7 @@ An automated tool that enables dynamic classification and analysis of neurotrans
 ```
 git clone https://github.com/henryghlow/NeuroRadar
 ```
-
+ 
 # To Use:
 
 This tool that can be implemented in RStudio allows for the automated analysis of puncta changes in neuronal live imaging. By inputting ROI intensity data collected in ImageJ, one can use this tool to analyze and batch process puncta data. Using linear regression techniques, the tool enables classification of underlying neurotransmitter receptor trafficking patterns and attempts to classify according to several archetypal event types:
