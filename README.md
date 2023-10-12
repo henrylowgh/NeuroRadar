@@ -14,8 +14,8 @@ git clone https://github.com/henryghlow/NeuroRadar
  
 # To Use:
 
-This tool that can be implemented in RStudio allows for the automated analysis of puncta changes in neuronal live imaging. By inputting ROI intensity data collected in ImageJ, one can use this tool to analyze and batch process puncta data. Using linear regression techniques, the tool enables classification of underlying neurotransmitter receptor trafficking patterns and attempts to classify according to several archetypal event types:
-
+This tool that can be implemented in RStudio allows for the automated analysis of puncta changes in neuronal live imaging. By inputting ROI intensity data collected in ImageJ, one can use this tool to analyze and batch process puncta data. Using linear regression techniques, the tool enables classification of underlying neurotransmitter receptor trafficking patterns and attempts to classify according to several archetypal event types: 
+ 
 ### Classes
 Type 1: Very short-duration transient puncta intensity increase with large spike (< 10 seconds)
 
